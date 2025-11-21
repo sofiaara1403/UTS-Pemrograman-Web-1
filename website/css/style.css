@@ -1,0 +1,58 @@
+/* GLOBAL */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+:root{
+--navy-500:#0a1a44;
+--navy-300:#3b4f8c;
+--bg:#f3f6ff;
+--muted:#6b6b85;
+}
+*{box-sizing:border-box}
+body{
+font-family:'Poppins',sans-serif;
+background:var(--bg);
+color:#222;
+}
+
+
+/* NAV */
+.nav-glass{
+background: rgba(255,255,255,0.6);
+backdrop-filter: blur(8px);
+border-radius:12px;
+margin-top:18px;
+}
+.logo{ color:var(--navy-500); }
+.btn-ghost{
+background: linear-gradient(90deg,var(--navy-300),var(--navy-500));
+color:white; border:none; padding:8px 18px; border-radius:999px;
+}
+
+
+/* HERO */
+.hero{
+min-height:56vh;
+display:flex; align-items:center; justify-content:center;
+background: radial-gradient(1000px 400px at 10% 10%, rgba(107,76,255,0.12), transparent 8%), linear-gradient(180deg,#ffffff, #efeaff);
+margin-top:18px; border-radius:16px;
+box-shadow:0 12px 30px rgba(107,76,255,0.08);
+}
+.text-purple{ color:var(--navy-500); }
+
+
+/* CARD */
+.card-article{
+border-radius:16px; overflow:hidden; border:none; box-shadow:0 8px 22px rgba(0,0,0,0.08);
+}
+.info-img{ height:200px; object-fit:cover; }
+
+
+/* auth card */
+.auth-card{ border-radius:16px; box-shadow:0 10px 30px rgba(107,76,255,0.06); border:none }
+
+
+/* footer */
+.footer{ background:transparent; }
+
+
+/* responsive tweaks */
+@media(max-width:768px){ .hero{ min-height:40vh } }

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Sejarah PJH Company",
+    "content": "PJH Company berdiri sejak tahun 2010 dan bergerak di bidang teknologi modern, pengembangan software, dan layanan digital.",
+    "image": "assets/images/info1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Visi & Misi",
+    "content": "Membangun solusi digital elegan dan modern untuk perusahaan di seluruh dunia.",
+    "image": "assets/images/info2.png"
+  }
+]
