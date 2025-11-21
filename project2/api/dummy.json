@@ -1,0 +1,12 @@
+{
+    "0": {
+        "id": 1,
+        "nama": "Contoh Pertama",
+        "deskripsi": "Ini adalah data dummy pertama"
+    },
+    "2": {
+        "id": 3,
+        "nama": "Data Baru",
+        "deskripsi": "Contoh data baru"
+    }
+}
