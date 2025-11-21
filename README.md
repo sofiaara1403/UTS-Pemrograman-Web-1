@@ -20,7 +20,7 @@ Project ini dibuat untuk memenuhi Ujian Tengah Semester Pemrograman Web 1.
 
 ## Screenshot
 ### Login Page
-![Login](login.png)
+![Login](Screenshot(21).png)(Screenshot(22).png)(Screenshot(23).png)
 
 ### Menu Utama
 ![Menu](menu.png)
