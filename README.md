@@ -1,29 +1,37 @@
-# UTS Pemrograman Web 1
+# 🌐 UTS Pemrograman Web 1 – PJH Company
 
-Project ini dibuat untuk memenuhi Ujian Tengah Semester Pemrograman Web 1.
+Project ini adalah website sederhana untuk UTS Pemrograman Web 1 yang berisi:
+- Halaman utama
+- Halaman login & register
+- Halaman detail informasi perusahaan
+- Backend API sederhana
 
-## Fitur
-- Login
-- Register
-- Menu Utama
-- Halaman Informasi (index)
-- Detail Informasi
-- API Backend menggunakan Node.js + Express
-- Penyimpanan data menggunakan JSON
+---
 
-## Cara Menjalankan Project
-1. Clone repository
-2. Jalankan XAMPP (Apache)
-3. Jalankan API:
-# UTS-Pemrograman-Web-1
+## 🚀 Halaman Utama
 
+### Screenshot
+![Halaman Utama 1](./Screenshot%20(17).png)
+![Halaman Utama 2](./Screenshot%20(18).png)
 
-## Screenshot
-### Login Page
-![Login](Screenshot(21).png)(Screenshot(22).png)(Screenshot(23).png)
+---
 
-### Menu Utama
-![Menu](menu.png)
+## 🔐 Halaman Login & Register
 
-### Detail Informasi
-![Detail](detail.png)
+### Screenshot
+![Login 1](./Screenshot%20(21).png)
+![Login 2](./Screenshot%20(22).png)
+![Login 3](./Screenshot%20(23).png)
+
+---
+
+## 📝 Detail Informasi
+
+### Screenshot
+![Detail Informasi 1](./Screenshot%20(19).png)
+![Detail Informasi 2](./Screenshot%20(20).png)
+
+---
+
+## 📁 Struktur Folder
+
